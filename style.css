@@ -2,7 +2,7 @@ body {
   text-align: center;
   font-family: monospace;
   display: block;
-  background: powderblue url("../blue-grey.jpg") no-repeat 40% 70%;
+  background: powderblue url("./blue-grey.jpg") no-repeat 40% 70%;
 }
 
 .about-content {
@@ -38,9 +38,10 @@ body {
 
 .cont-content {
   width: 51%;
-  height: 400px;
+  height: 125px;
   Background-color: powderblue;
   margin: auto;
+  text-align: left;
 }
 
 ul {
