@@ -1,0 +1,72 @@
+body {
+  text-align: center;
+  font-family: monospace;
+  display: block;
+  background: powderblue url("../blue-grey.jpg") no-repeat 40% 70%;
+}
+
+.about-content {
+  width: 51%;
+  height: 365px;
+  Background-color: powderblue;
+  margin: auto;
+}
+
+.exp-content {
+  width: 51%;
+  height: 270px;
+  Background-color: powderblue;
+  margin: auto;
+  text-align: left;
+}
+
+.curr-content {
+  width: 51%;
+  height: 260px;
+  Background-color: powderblue;
+  margin: auto;
+  text-align: left;
+}
+
+.proj-content {
+  width: 51%;
+  height: 170px;
+  Background-color: powderblue;
+  margin: auto;
+  text-align: left;
+}
+
+.cont-content {
+  width: 51%;
+  height: 400px;
+  Background-color: powderblue;
+  margin: auto;
+}
+
+ul {
+  list-style: none;
+  margin: auto;
+  width: 48%;
+  background: powderblue;
+}
+
+li {
+  display: inline;
+}
+
+#home-hr-line {
+  border: 0;
+  width: 51%;
+  height: 3px;
+  align-self: center;
+  background-color: black;
+}
+
+a {
+  color: lightcoral;
+}
+
+#subj-head {
+  font-size: 16px;
+}
+
